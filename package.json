@@ -1,0 +1,22 @@
+{
+  "name": "exprplannp",
+  "version": "0.0.1",
+  "description": "server planfix -> np -> planfix",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mish-hash/exprplannp.git"
+  },
+  "author": "PMikhail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mish-hash/exprplannp/issues"
+  },
+  "homepage": "https://github.com/Mish-hash/exprplannp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
